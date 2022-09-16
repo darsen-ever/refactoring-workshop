@@ -1,5 +1,7 @@
 # Refactoring Workshop
 
+A collaborative exercise on refactoring the TemplateProcessor class and cleaning up the code smells.
+
 ## Prerequisites
 
 ### Install Tools
