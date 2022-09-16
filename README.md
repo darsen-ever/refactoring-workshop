@@ -42,6 +42,12 @@ Run the bild
 
 `dotnet build`
 
+Open the project in Visual Studio Code
+
+`code .`
+
+Have fun! :)
+
 
 
 
