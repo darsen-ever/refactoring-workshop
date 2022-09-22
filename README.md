@@ -32,6 +32,8 @@ Command:
 
 `git clone git@github.com:darsen-ever/refactoring-workshop.git`
 
+or using https: `https://github.com/darsen-ever/refactoring-workshop.git`
+
 ## Build the Project
 
 CD into RefactoringWorkshop
