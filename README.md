@@ -51,8 +51,3 @@ Open the project in Visual Studio Code
 `code .`
 
 Have fun! :)
-
-
-
-
-
