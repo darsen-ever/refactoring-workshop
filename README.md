@@ -28,11 +28,13 @@ Watch the following short video: https://youtu.be/QDZGIozYiIw
 
 ## Clone the repository
 
-Command: 
+Command using ssh: 
 
 `git clone git@github.com:darsen-ever/refactoring-workshop.git`
 
-or using https: `https://github.com/darsen-ever/refactoring-workshop.git`
+Command using https: 
+
+`https://github.com/darsen-ever/refactoring-workshop.git`
 
 ## Build the Project
 
