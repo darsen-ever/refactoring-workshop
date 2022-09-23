@@ -1,0 +1,7 @@
+0. Add unit tests
+1. Magic literal
+2. Commented code
+3. Remove redundant using line
+4. Duplicated code, can extract a method 
+5. Use implicit types
+6. Use StringBuilder class
