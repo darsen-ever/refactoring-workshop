@@ -17,7 +17,7 @@ public class TemplateProcessor {
 
 		String template = sourceTemplate;
 
-		// Substitute for %CODE%
+		// Substitute for %CODE% test
 		int templateSplitBegin = template.IndexOf("%CODE%");
 		int templateSplitEnd = templateSplitBegin + 6;
 		String templatePartOne = template.Substring(0,
